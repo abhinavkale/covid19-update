@@ -19,7 +19,10 @@
  ## Demo [https://liveupdatescovid19.netlify.app/](https://liveupdatescovid19.netlify.app/)
  
  
- ![Screenshot from 2021-06-05 23-30](https://user-images.githubusercontent.com/56266493/120901484-d8b38f00-c658-11eb-932a-e451c59142d9.png)
+ 
+ 
+ ![Screenshot from 2021-06-05 23-30 (1)](https://user-images.githubusercontent.com/56266493/120901520-203a1b00-c659-11eb-81e0-3dd3c6fb4b76.png)
+
 
 
   
